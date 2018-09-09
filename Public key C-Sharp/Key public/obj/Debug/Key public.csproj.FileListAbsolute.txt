@@ -1,0 +1,7 @@
+C:\Users\JORGE\source\repos\Key public\Key public\obj\Debug\Key public.csproj.CoreCompileInputs.cache
+C:\Users\JORGE\source\repos\Key public\Key public\bin\Debug\Key public.exe.config
+C:\Users\JORGE\source\repos\Key public\Key public\bin\Debug\Key public.exe
+C:\Users\JORGE\source\repos\Key public\Key public\bin\Debug\Key public.pdb
+C:\Users\JORGE\source\repos\Key public\Key public\obj\Debug\Key public.exe
+C:\Users\JORGE\source\repos\Key public\Key public\obj\Debug\Key public.pdb
+C:\Users\JORGE\source\repos\Key public\Key public\obj\Debug\Key public.csprojAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\JORGE\Desktop\Public Key\Key public\Key public\bin\Debug\Key public.exe.config
+C:\Users\JORGE\Desktop\Public Key\Key public\Key public\bin\Debug\Key public.exe
+C:\Users\JORGE\Desktop\Public Key\Key public\Key public\bin\Debug\Key public.pdb
+C:\Users\JORGE\Desktop\Public Key\Key public\Key public\obj\Debug\Public key.csproj.CoreCompileInputs.cache
+C:\Users\JORGE\Desktop\Public Key\Key public\Key public\obj\Debug\Key public.exe
+C:\Users\JORGE\Desktop\Public Key\Key public\Key public\obj\Debug\Key public.pdb
