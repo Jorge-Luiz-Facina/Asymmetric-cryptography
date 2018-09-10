@@ -27,7 +27,7 @@ namespace Public_key_test
             AsymmetricCryptography asymmetricCryptographyOther = new AsymmetricCryptography();
             Encryption encryption = new Encryption();
             byte[] encryptedText = encryption.encrypt(TEXT, asymmetricCryptography.getPublicKey());
-            string dectyptedText = encryption.decryption(encryptedText, asymmetricCryptographyOther.getPrivateKey());
+            encryption.decryption(encryptedText, asymmetricCryptographyOther.getPrivateKey());
         }
     }
 }

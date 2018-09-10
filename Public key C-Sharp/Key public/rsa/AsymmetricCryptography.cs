@@ -9,7 +9,7 @@ namespace Key_public
 {
     public class AsymmetricCryptography
     {
-        RSACryptoServiceProvider rSACryptoServiceProvider;
+        private RSACryptoServiceProvider rSACryptoServiceProvider;
 
         public AsymmetricCryptography()
         {
