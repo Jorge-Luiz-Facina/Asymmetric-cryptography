@@ -22,6 +22,7 @@ public class PublicKeyTest {
         Assert.assertEquals(TEXT, dectyptedText);  
     }
     
+    @Test(expected=NullPointerException.class)
     public void encryptUsingPublicKeyAndDoesNotDecryptUsingDifferentPrivateKey() {
         AsymmetricCryptography asymmetricCryptographyOther = new AsymmetricCryptography();
         Encryption encryption = new Encryption();
